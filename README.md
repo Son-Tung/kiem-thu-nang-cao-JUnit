@@ -1,4 +1,3 @@
-https://chatgpt.com/share/677f525a-69c4-8002-9791-ed25119aaf0b
 # JUnit Advanced Testing: Algorithms and Test Coverage
 
 This project demonstrates advanced testing with **JUnit** for common algorithms, emphasizing diverse control structures and data structures. The project also includes a guide to measure and achieve 100% test coverage (statement coverage).
